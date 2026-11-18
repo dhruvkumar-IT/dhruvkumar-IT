@@ -189,7 +189,7 @@ Currently exploring new ideas and working on projects to improve my development 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dhruv-kumar">
+<a href="https://www.linkedin.com/in/Dhruv-Kumar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
