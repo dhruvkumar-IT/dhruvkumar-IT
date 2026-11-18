@@ -8,77 +8,105 @@
 
 ---
 
-### 🌟 Who Am I?
+<!-- ABOUT ME SECTION -->
 
-<table>
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Dhruv+Kumar!;IT+Student+%7C+Tech+Enthusiast;Learning+%7C+Building+%7C+Growing" />
+
+<br>
+
+<img src="https://img.shields.io/badge/BSc-Information%20Technology-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td width="60%">
+<td align="center" width="50%">
 
-I'm **Dhruv**, an IT student who loves exploring technology, learning new skills and creating things with code.
+### 🎓 Education
 
-I believe the best way to learn programming is by experimenting, making mistakes and building real projects.
+**BSc Information Technology**
 
-- 🎓 BSc Information Technology Student
-- 💻 Exploring Programming & Web Development
-- 🐍 Learning Python and C++
-- 🌐 Working with HTML, CSS & JavaScript
-- 🧠 Curious about how technology works
-- 🚀 Turning ideas into practical projects
+Currently exploring the world of technology and programming.
 
 </td>
 
-<td width="40%" align="center">
+<td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+### 💻 Interests
+
+**Software & Web Development**
+
+Interested in creating websites, coding and exploring new technologies.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🌱 Currently Learning
+
+**Python • C++ • JavaScript**
+
+Improving my programming and problem-solving skills.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 My Goals
+
+**Learn • Build • Improve**
+
+Working on practical projects and growing as a developer.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### ⚡ What I'm Focused On
+<h3 align="center">⚡ My Coding Interests</h3>
 
 <div align="center">
 
-| 🔍 Area | 🎯 My Focus |
-|:---|:---|
-| Programming | Python & C++ |
-| Web Development | HTML, CSS & JavaScript |
-| Problem Solving | Improving logical thinking |
-| Projects | Learning by building |
-| Growth | Exploring new technologies |
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
----
+<br>
 
-### 💭 A Little More About Me
+<h3 align="center">✨ A Little About My Personality</h3>
 
-- 🎨 I enjoy creativity and trying new ideas.
-- 🤝 I like interacting with people and working in teams.
-- 📚 Always interested in learning something beyond my syllabus.
-- 🔥 I believe consistency matters more than perfection.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Curious%20Mind-Exploring%20New%20Ideas-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Creative-Thinking%20Differently-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Teamwork-Love%20Collaborating-00A86B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Growth%20Mindset-Always%20Learning-FFA500?style=flat-square"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
-### ✨ My Developer Mindset
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Learn+%E2%86%92+Experiment+%E2%86%92+Build;Code.+Create.+Improve.;Every+Expert+Was+Once+a+Beginner." />
+### 💡 "Turning curiosity into creativity, one project at a time."
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhruvkumar-IT&label=PROFILE+VISITORS&color=00C9FF&style=for-the-badge" />
-
-</div>
-
----
 
 ## ⚡ My Tech Stack
 
@@ -88,13 +116,26 @@ I believe the best way to learn programming is by experimenting, making mistakes
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode&perline=4" />
-  <img src="https://img.shields.io/badge/IDLE-Python%20IDE-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+<div align="center">
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+<a href="https://docs.python.org/3/library/idle.html">
+<img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://www.bloodshed.net/">
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+
 </div>
 
 ---
