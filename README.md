@@ -132,7 +132,7 @@ Working on practical projects and growing as a developer.
 <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-
+<a href="https://www.bloodshed.net/">
 <img src="https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 
