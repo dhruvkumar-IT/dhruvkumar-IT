@@ -49,7 +49,7 @@ A personal website showcasing my skills, projects and journey in technology.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[🔗 Live Demo](https://dhruvkumar-it.github.io/dhruv-portfolio/)
+[🔗 My Portfolio Website ](https://dhruvkumar-it.github.io/dhruv-portfolio/)
 
 </td>
 <td width="50%">
