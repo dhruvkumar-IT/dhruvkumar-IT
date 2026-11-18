@@ -8,16 +8,75 @@
 
 ---
 
-## 👨‍💻 About Me
+### 🌟 Who Am I?
 
-Hey! I'm **Dhruv Kumar**, a BSc Information Technology student who enjoys exploring technology and learning how things work.
+<table>
+<tr>
+<td width="60%">
 
-- 🎓 Currently pursuing BSc in Information Technology.
-- 💻 Interested in Web Development and Software Development.
-- 🌱 Currently learning HTML, CSS and JavaScript.
-- 🚀 Building projects to improve my practical skills.
-- 🎯 Always curious to explore new technologies.
-- 🤝 Open to learning, collaboration and new opportunities.
+I'm **Dhruv**, an IT student who loves exploring technology, learning new skills and creating things with code.
+
+I believe the best way to learn programming is by experimenting, making mistakes and building real projects.
+
+- 🎓 BSc Information Technology Student
+- 💻 Exploring Programming & Web Development
+- 🐍 Learning Python and C++
+- 🌐 Working with HTML, CSS & JavaScript
+- 🧠 Curious about how technology works
+- 🚀 Turning ideas into practical projects
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ What I'm Focused On
+
+<div align="center">
+
+| 🔍 Area | 🎯 My Focus |
+|:---|:---|
+| Programming | Python & C++ |
+| Web Development | HTML, CSS & JavaScript |
+| Problem Solving | Improving logical thinking |
+| Projects | Learning by building |
+| Growth | Exploring new technologies |
+
+</div>
+
+---
+
+### 💭 A Little More About Me
+
+- 🎨 I enjoy creativity and trying new ideas.
+- 🤝 I like interacting with people and working in teams.
+- 📚 Always interested in learning something beyond my syllabus.
+- 🔥 I believe consistency matters more than perfection.
+
+<br>
+
+<div align="center">
+
+### ✨ My Developer Mindset
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Learn+%E2%86%92+Experiment+%E2%86%92+Build;Code.+Create.+Improve.;Every+Expert+Was+Once+a+Beginner." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dhruvkumar-IT&label=PROFILE+VISITORS&color=00C9FF&style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -31,8 +90,11 @@ Hey! I'm **Dhruv Kumar**, a BSc Information Technology student who enjoys explor
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=github,vscode,git" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode&perline=4" />
+  <img src="https://img.shields.io/badge/IDLE-Python%20IDE-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 </div>
 
 ---
