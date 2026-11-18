@@ -53,7 +53,7 @@ Interested in creating websites, coding and exploring new technologies.
 
 ### 🌱 Currently Learning
 
-**Python • C++ • JavaScript**
+**Python • C++ • HTML • CSS • JavaScript**
 
 Improving my programming and problem-solving skills.
 
