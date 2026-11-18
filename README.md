@@ -70,13 +70,13 @@ Currently exploring new ideas and working on projects to improve my development 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=https://github.com/dhruvkumar-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvkumar-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dhruvkumar-IT&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkumar-IT&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=https://github.com/dhruvkumar-IT&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=dhruvkumar-IT&theme=tokyonight&hide_border=true" />
 
 </div>
 
