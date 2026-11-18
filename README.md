@@ -49,7 +49,7 @@ A personal website showcasing my skills, projects and journey in technology.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[🔗 Live Demo](YOUR_PORTFOLIO_LINK)
+[🔗 Live Demo](https://dhruvkumar-it.github.io/dhruv-portfolio/)
 
 </td>
 <td width="50%">
@@ -70,13 +70,13 @@ Currently exploring new ideas and working on projects to improve my development 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=https://github.com/dhruvkumar-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dhruvkumar-IT&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=https://github.com/dhruvkumar-IT&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,15 +86,15 @@ Currently exploring new ideas and working on projects to improve my development 
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/dhruv-kumar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://dhruvkumar-it.github.io/dhruv-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/dhruvkumar-IT">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -112,28 +112,3 @@ Currently exploring new ideas and working on projects to improve my development 
 
 </div>
 
-3. Don't forget these 4 replacements
-
-Before saving, replace:
-
-Code| Replace with
-"https://github.com/dhruvkumar-IT"| Your actual GitHub username
-"https://www.linkedin.com/in/dhruv-kumar"| Your LinkedIn profile URL
-"https://dhruvkumar-it.github.io/dhruv-portfolio/"| Your live portfolio URL
-"https://github.com/dhruvkumar-IT"| Your GitHub profile URL
-
-4. My recommended design
-
-I have selected the Tokyo Night + Cyan Blue theme.
-
-It gives your profile:
-
-- Modern developer aesthetics.
-- Dark professional appearance.
-- Animated header.
-- Attractive technology badges.
-- Organized project showcase.
-
-One important thing: GitHub statistics and animations use external services, so they may occasionally take time to load. Also, don't worry if your statistics are initially low—you're building your profile and experience.
-
-My suggestion: Keep updating this README whenever you complete a new project or learn a new technology. Your GitHub profile should grow along with your skills! 🚀
