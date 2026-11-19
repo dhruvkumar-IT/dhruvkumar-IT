@@ -144,6 +144,7 @@ Working on practical projects and growing as a developer.
 
 <table>
 <tr>
+  <tr>
 <td width="50%">
 
 ### 🌐 Personal Portfolio
@@ -155,6 +156,8 @@ A personal website showcasing my skills, projects and journey in technology.
 [🔗 My Portfolio Website ](https://dhruvkumar-it.github.io/dhruv-portfolio/)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 ResumeCraft 
@@ -166,6 +169,8 @@ An AI-powered Resume Builder designed to help users create professional resume e
 [🔗 My Portfolio Website ](https://dhruvkumar-it.github.io/ResumeCraft/)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💻 More Projects Coming Soon
@@ -175,6 +180,7 @@ Currently exploring new ideas and working on projects to improve my development 
 **Goal:** Learn by building.
 
 </td>
+</tr>
 </tr>
 </table>
 
