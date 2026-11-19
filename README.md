@@ -143,9 +143,9 @@ Working on practical projects and growing as a developer.
 ## 🚀 Featured Projects
 
 <table width="100%">
-
+<tr>
   <tr>
-<td width="60%">
+<td align="left">
 
 ### 🌐 Personal Portfolio
 
@@ -158,7 +158,7 @@ A personal website showcasing my skills, projects and journey in technology.
 </td>
 </tr>
 <tr>
-<td width="60%">
+<td align="left">
 
 ### 🌐 ResumeCraft 
 
@@ -171,7 +171,7 @@ An AI-powered Resume Builder designed to help users create professional resume e
 </td>
 </tr>
 <tr>
-<td width="60%">
+<td align="left">
 
 ### 💻 More Projects Coming Soon
 
@@ -181,7 +181,7 @@ Currently exploring new ideas and working on projects to improve my development 
 
 </td>
 </tr>
-
+</tr>
 </table>
 
 ---
