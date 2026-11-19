@@ -166,7 +166,7 @@ An AI-powered Resume Builder designed to help users create professional resume e
 
 **Technologies:** HTML, CSS, JavaScript
 
-[🔗 My Portfolio Website ](https://dhruvkumar-it.github.io/ResumeCraft/)
+[🔗 My ResumeCraft ](https://dhruvkumar-it.github.io/ResumeCraft/)
 
 </td>
 </tr>
