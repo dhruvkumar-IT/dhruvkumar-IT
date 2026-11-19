@@ -142,8 +142,8 @@ Working on practical projects and growing as a developer.
 
 ## 🚀 Featured Projects
 
-<table style="text-align: center;">
-<tr>
+<table width="100%">
+
   <tr>
 <td width="60%">
 
@@ -181,7 +181,7 @@ Currently exploring new ideas and working on projects to improve my development 
 
 </td>
 </tr>
-</tr>
+
 </table>
 
 ---
