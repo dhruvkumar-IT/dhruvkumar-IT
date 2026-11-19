@@ -142,7 +142,7 @@ Working on practical projects and growing as a developer.
 
 ## 🚀 Featured Projects
 
-<table>
+<table style="text-align: center;">
 <tr>
   <tr>
 <td width="60%">
